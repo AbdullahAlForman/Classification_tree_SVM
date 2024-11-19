@@ -72,11 +72,3 @@ pip install numpy pandas matplotlib seaborn scikit-learn jupyter
 
 ## 🛠️ **Contributing**  
 Contributions are welcome! Feel free to open issues or submit pull requests to improve this project.
-
----
-
-Make your classification analysis journey seamless with this project! 🚀
-
---- 
-
-Let me know if you need me to adjust anything or generate the LICENSE file!
